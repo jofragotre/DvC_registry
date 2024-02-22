@@ -1,0 +1,8 @@
+artifacts:
+  song_dataset:
+    path: data/MillionSongSubset
+    type: data
+    desc: "Downloaded from http://millionsongdataset.com/pages/getting-dataset/#subset"
+    labels:
+      - audio
+      - classification
