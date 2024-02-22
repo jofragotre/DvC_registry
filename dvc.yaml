@@ -6,3 +6,10 @@ artifacts:
     labels:
       - audio
       - classification
+  face_dataset:
+    path: data/images_demo
+    type: data
+    desc: "face images"
+    labels:
+      - image
+      - classification
