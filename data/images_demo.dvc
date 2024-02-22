@@ -1,0 +1,6 @@
+outs:
+- md5: 6a4fcc826c8e607caf1ac63bd431ef3a.dir
+  size: 11848405
+  nfiles: 46
+  hash: md5
+  path: images_demo
