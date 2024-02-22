@@ -1,6 +1,0 @@
-outs:
-- md5: 51fce4cfb8a96895000c458a3d5a6569.dir
-  size: 2706701254
-  nfiles: 10000
-  hash: md5
-  path: MillionSongSubset
